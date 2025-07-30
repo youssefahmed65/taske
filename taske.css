@@ -1,0 +1,72 @@
+
+body{
+
+background-color: antiquewhite;
+
+
+}
+
+
+
+
+
+
+header button{
+
+     width: 70px; height: 30px;
+     border-radius: 12px;
+background-color:rgb(250, 232, 182);
+
+    
+}
+
+header{
+
+     background-image: url(banner.jpg);
+     width: 100%;
+     height: 300px;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.products{
+
+font-family: 'CARTOON FREE', sans-serif;
+display: flex;
+flex-wrap:wrap ;
+gap: 50px;
+}
+
+
+.products img {
+  width: 400px;
+  height: 300px;
+border-radius: 12px;
+
+}
+ 
+.products button{
+
+width: 70px; height: 33px;
+border-radius: 12px;
+background-color: rgb(250, 232, 182);
+font-size: 12px;
+font-family: 'CARTOON FREE', sans-serif;
+color:rgb(0, 0, 0);
+
+
+
+
+
+
+}
+
+
+.product{
+
+border: 2px solid #ffbb00;
+border-radius: 12px;
+
+
+}
+

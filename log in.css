@@ -1,0 +1,33 @@
+body{
+    
+  background-color:antiquewhite;
+
+
+}
+
+.log{
+
+font-family: 'CARTOON FREE', sans-serif;
+border: 4px solid #ffbb00;
+border-radius: 12px;
+
+
+
+}
+
+
+
+.log button{
+
+  width: 70px; height: 33px;
+border-radius: 12px;
+background-color: rgb(250, 232, 182);
+font-size: 12px;
+font-family: 'CARTOON FREE', sans-serif;
+color:rgb(0, 0, 0);
+
+
+
+
+}
+
